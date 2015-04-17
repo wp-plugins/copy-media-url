@@ -1,5 +1,5 @@
-=== Copy wordpress media url to clipdoard ===
-Contributors: subrata, arimghosh, Dualcube
+=== Copy Media url ===
+Contributors: dualcube_subrata, arimghosh, Dualcube
 Donate link: http://www.dualcube.com
 Tags: wordpress, media, uploads
 Requires at least: 3.6
