@@ -13,18 +13,17 @@ All new Wordpress plugin by which a customer can copy media url to clipboard.
 == Description ==
 
 Copy media url plugin helps wordpress admin user to copy uploded media url from wordpress media upload page.
-Sometimes the upload paths are large, and certain browsers (like Chrome) are not the best at copying media url
-And this is where the Copy media url plugin will help admin to copy media url. Copy wordpress media url to clipboard plugin add a copy button  once uploaded media into the media library by clicking on copy button media url will be copied to clipboard. 
+Sometimes the upload paths are large, and certain browsers (like Chrome) are very good at copying media url
+And this is where the Copy media url plugin will help admin. This plugin adds a copy button beside the uploaded media in the media library and by this copy button admin can ditrectly copy the media url in the clipboard making the process hassle free and intuitive.
 
 
 = Plugin Features =
 
 *   Copy media url plugin copy uoloaded media url to clipdoard
-*   It crete a copy button to media image gallary.
-*   This is an extremely light-weight plugin; it doesn't hamper the speed of your website and ensures smooth transition and product sorting.
-*   This killer plugin is easy to set up, use and install. You need not be a coding or developing expert to understand how the plugin works. Just install and let it do the rest.
+*   It creates a copy button to media image gallary.
+*   This is an extremely light-weight plugin; it doesn't hamper the speed of your website and ensures a user friendly workflow.
+*   This killer plugin is easy to set up, use and install. You need not be a coder or developing expert to understand how the plugin works. Just install and let it do the rest.
 
-Reviews and ratings are highly considered as necessary sales drivers, and these are one of the most important information a customer wishes to have before spending on a product. After all, it is always better to know about positives as well as the negatives of the product than to find about its loopholes after purchasing.
 
 = Minimum Requirements =
 
@@ -38,8 +37,8 @@ Thanks heaps for trying this plugin. I hope it could serve your purpose. If you 
 
 1.  Upload your plugin folder to the '/wp-content/plugins' directory.
 2.  Activate the plugin through the 'Plugins' menu in WordPress.
-3.  Turn on the plugin's activity through the "Product Review Sorting Settings" menu on your Wordpress admin panel.
-4.  All done. Just check on product review tab and group reviews according to its rating.
+3.  Now you are ready to copy all the media url with just a click of a button.
+
 
 == Frequently Asked Questions ==
 
@@ -51,7 +50,8 @@ Yes, this plugin is compatible with all latest version of wordpress themes.
 
 == Screenshots ==
 
-1. Copy wordpress media url to clipdoard
+1. Copy wordpress media url to clipdoard process.
+2. Success message.
 
 == Changelog ==
 
